@@ -5,7 +5,7 @@ It allows users to either capture a hand sign through their camera or upload an 
 
 Features:
 
-1. Deep Learning Model trained to recognize hand signs from A–Z.
+1.Deep Learning Model trained to recognize hand signs from A–Z.
    
 2.Camera Input and Image Upload support for predictions.
 
